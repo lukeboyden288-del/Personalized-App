@@ -1,24 +1,14 @@
 {
-  "name": "MyOS — Personal Dashboard",
-  "short_name": "MyOS",
-  "description": "Personal productivity and investor dashboard",
+  "name": "Ascend — Personal Growth OS",
+  "short_name": "Ascend",
+  "description": "Your real-life RPG for becoming the best version of yourself",
   "start_url": "/",
   "display": "standalone",
-  "background_color": "#0f0f0f",
-  "theme_color": "#0f0f0f",
+  "background_color": "#080810",
+  "theme_color": "#080810",
   "orientation": "portrait-primary",
   "icons": [
-    {
-      "src": "icon-192.png",
-      "sizes": "192x192",
-      "type": "image/png",
-      "purpose": "any maskable"
-    },
-    {
-      "src": "icon-512.png",
-      "sizes": "512x512",
-      "type": "image/png",
-      "purpose": "any maskable"
-    }
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any maskable" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" }
   ]
 }
